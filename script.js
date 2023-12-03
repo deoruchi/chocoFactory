@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
 let priceOfItems = 0;
 const getData = async () => {
   try {
-    const result = await fetch("http://172.16.4.47:5500/product.json");
+    const result = await fetch("https://server2-hazel.vercel.app/data");
     const data = await result.json();
     listProArr = data;
     addIntoHTML();
