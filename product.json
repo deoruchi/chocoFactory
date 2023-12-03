@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Amul Milk Chocolate",
+    "price": 2.99,
+    "src": "/asset/images/AmulMilkChocolate.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "5 Star",
+    "price": 1.99,
+    "src": "/asset/images/5Star.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Amul Sugar Free",
+    "price": 3.49,
+    "src": "/asset/images/AmulSugarFree.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chocomini",
+    "price": 4.99,
+    "src": "/asset/images/chocomini.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Dairy Milk",
+    "price": 2.49,
+    "src": "/asset/images/DairyMilk.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Galaxy Choco",
+    "price": 3.99,
+    "src": "/asset/images/GalaxyChoco.jpeg"
+  },
+  {
+    "id": 7,
+    "name": "Hershey's Choco",
+    "price": 2.79,
+    "src": "/asset/images/Hershey'schoco.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Hershey's Milk Chocolate",
+    "price": 3.29,
+    "src": "/asset/images/hershey'sMilkChocolate.jpeg"
+  },
+  {
+    "id": 9,
+    "name": "Munch Home Pack",
+    "price": 1.49,
+    "src": "/asset/images/MunchHomePack.jpeg"
+  },
+  {
+    "id": 10,
+    "name": "Snickers",
+    "price": 2.99,
+    "src": "/asset/images/Snickers.jpeg"
+  }
+]

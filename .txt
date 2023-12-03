@@ -1,0 +1,38 @@
+.product-list {
+  text-align: center;
+}
+
+.bundle-product {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.selected-items {
+  overflow-y: auto;  /* Use 'auto' to enable scrolling if needed */
+  max-height: 300px;  /* Set a max height for the container */
+  border: 1px solid #ccc; /* Add a border for better visualization */
+}
+
+.adder {
+  margin-top: 10px;
+}
+
+.numbers {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button:hover {
+  background-color: #45a049;
+}
