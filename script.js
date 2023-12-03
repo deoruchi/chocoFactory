@@ -18,7 +18,7 @@ document.addEventListener("DOMContentLoaded", () => {
 let priceOfItems = 0;
 const getData = async () => {
   try {
-    const result = await fetch("https://server2-hazel.vercel.app/data");
+    const result = await fetch("https://server44.vercel.app/data");
     const data = await result.json();
     listProArr = data;
     addIntoHTML();
@@ -133,9 +133,9 @@ const addCartToHTML = () => {
                 <p class="total-price">${info.price * item.quantity}</p>
               </div>
               <div class="quantity">
-              <span class="minus"><</span>
+              <button class="minus"><</button>
               <span>${item.quantity}</span>
-              <span class="plus">></span>
+              <button class="plus">></button>
           </div>
             `;
       selectedProd.appendChild(newItem);
